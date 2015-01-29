@@ -5,13 +5,15 @@ Value Mart is a grocery store mannagement system, makes operating your grocery s
   - Java Development Kit 5.0 Update 16 Windows i586 P
   - NetBeans IDE 6.1 (Build 200805300101)
 
-##System Specification:
+##System Specifications:
   - Multi Threading
   - Socket Programming
   - Sample Project
 
 ##Screenshots:
-   [<img style="width:100%;" src="">]()
+   [<pre><img src="https://raw.githubusercontent.com/m-fahim/Value-Mart/master/client/src/images/scr.jpg"></pre>](https://github.com/m-fahim/Value-Mart/)
+   [<div style="display:block;margin:auto;"><img src="https://raw.githubusercontent.com/m-fahim/Value-Mart/master/client/src/images/scr2.jpg"></div>](https://github.com/m-fahim/Value-Mart/)
+   [<div style="text-align:center"><img src="https://raw.githubusercontent.com/m-fahim/Value-Mart/master/server/src/images/scr3.jpg"></div>](https://github.com/m-fahim/Value-Mart/)
 
 #Getting Started
   - Download Value Mart source code.
