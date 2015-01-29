@@ -11,7 +11,7 @@ Value Mart is a grocery store mannagement system, makes operating your grocery s
   - Sample Project
 
 ##Screenshots:
-   [<pre><img src="https://raw.githubusercontent.com/m-fahim/Value-Mart/master/client/src/images/scr.jpg"></pre>](https://github.com/m-fahim/Value-Mart/)
+   [<div style="display:block;margin:auto;"><img src="https://raw.githubusercontent.com/m-fahim/Value-Mart/master/client/src/images/scr.jpg"></div>](https://github.com/m-fahim/Value-Mart/)
    [<div style="display:block;margin:auto;"><img src="https://raw.githubusercontent.com/m-fahim/Value-Mart/master/client/src/images/scr2.jpg"></div>](https://github.com/m-fahim/Value-Mart/)
    [<div style="text-align:center"><img src="https://raw.githubusercontent.com/m-fahim/Value-Mart/master/server/src/images/scr3.jpg"></div>](https://github.com/m-fahim/Value-Mart/)
 
