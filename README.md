@@ -1,3 +1,6 @@
+#Value-Mart
+Value Mart is a Store Mannagement System.
+
 ##Introduction:
 Value Mart is a grocery store mannagement system, makes operating your grocery store that much easier.
 
